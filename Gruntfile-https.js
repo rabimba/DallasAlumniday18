@@ -93,9 +93,7 @@ module.exports = function(grunt) {
 			server: {
 				options: {
 					port: port,
-					protocol: 'https',
-					key: grunt.file.read('ssl/bmaci-com.key.pem').toString(),
-					cert: grunt.file.read('ssl/bmaci-com.crt.pem').toString(),
+					protocol: 'http',
 
 					base: base,
 					livereload: true,
