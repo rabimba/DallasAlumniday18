@@ -25,6 +25,6 @@
     <li>webxr.js + samples at http://github.com/mozilla/webxr-polyfill</li>
 </ul>
 
-<p>This talk available at <a href="https://rabimba.github.io/DallasAlum18">https://rabimba.github.io/DallasAlum18</a></p>
+<p>This talk available at <a href="https://rabimba.github.io/DallasAlum18">https://rabimba.github.io/DallasAlumniday18</a></p>
 <p>Thanks to everyone who worked on WebXR and Argon. Shoutout to <a href="https://twitter.com/blairmacintyre">@blairmacintyre</a> and <a href="https://twitter.com/TrevorFSmith">@TrevorFSmith</p></a>
 
