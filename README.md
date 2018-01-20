@@ -1,4 +1,4 @@
-# Presentation for Developer Week Austin 2017
+# Presentation for Dallas Alumni Day
 
 Uses [reveal.js](https://travis-ci.org/hakimel/reveal.js), [webxr.js](http://github.com/mozilla/webxr-polyfill) and [three.js](http://threejs.org)
 
